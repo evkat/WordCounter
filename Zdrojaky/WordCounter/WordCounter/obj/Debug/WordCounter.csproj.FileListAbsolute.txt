@@ -1,0 +1,6 @@
+c:\users\turnova\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+c:\users\turnova\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+c:\users\turnova\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+c:\users\turnova\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+c:\users\turnova\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+c:\users\turnova\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
